@@ -1,0 +1,168 @@
+.container-top{
+    background-color: #95e1d3;
+    text-align: center;
+    width: 100%;
+    /*margin: 0 auto 0 auto; */
+    padding-top: 100px;
+}
+body{
+    margin: 0px;
+}
+#id1{
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    font-weight: 500;
+    margin-bottom: 0px;
+    color: #00917c;
+}
+#id2{
+    font-family: 'Redressed', cursive;
+    font-size:x-large;
+    color: #314e52;
+}
+.cloud1{
+    position: relative;
+    left: 240px;
+    top: 20px;
+}
+
+.cloud2{
+    position: absolute;
+    top: 270px;
+}
+.mountain{
+    position: relative;
+    top:3px;
+}
+.profile{
+    text-align: center;
+    padding-top: 100px;
+}
+#id3{
+    color:#00917c;
+    font-size: xx-large;
+}
+#id4{
+    font-size: large;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 10px;
+    border-color: rgb(185, 179, 179);
+    width: 10%;
+    margin-top: 50px;
+}
+.skills{
+    text-align: center;
+    padding-top: 60px;
+}
+.h2{
+    font-size: 50px;
+    color: #00917c;
+}
+.block1{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: 60px;
+}
+.block2{
+    display: inline-block;
+    width: 300px;
+    /* height: 200px; */
+    position: relative;
+    top: -80px;
+    font-size: large;
+}
+.design,.webdesign{
+    width: 200px;
+}
+.block4{
+    display: inline-block;
+    width: 300px;
+    /* height: 200px; */
+    position: relative;
+    top: -20px;
+    right: 60px;
+    font-size: large;
+}
+.block3{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    /* right: 300px; */
+    left: 30px;
+}
+.skill-row{
+    margin-top: 100px;
+}
+.skill-row2{
+    margin-top: 50px;
+}
+.content1{
+    font-size: 30px;
+}
+.contact-me{
+    text-align: center;
+    padding-top: 60px;
+}
+.h3
+{
+    font-size: 25px;
+    color: #95e1d3;
+}
+#lastpara{
+    font-size: 20px;
+    color: #314e52;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.btn{
+    background-color:#00917c;
+    padding: 15px;
+    text-decoration: none;
+    color:#025955;
+    border-radius: 5px;
+    
+    
+}
+.btn:hover{
+    background-color: #fde8cd;
+}
+.message{
+    margin-right: 2px;
+    position: relative;
+    top: 4px;
+    right: 3px;
+
+}
+.bottom-container{
+    background-color: #95e1d3;
+    margin-top: 100px;
+    padding:30px;
+    text-align: center;
+    
+}
+.footer-link{
+    margin: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Redressed', cursive;
+}
+.footer-link:hover{
+    background-color: #fde8cd;
+    padding:10px;
+    border-radius: 5px;
+}
+.top{
+    width: 100px;
+    padding: 20px;
+    padding-left: 50px ;
+}
+.navbar{
+    position: fixed;
+}
